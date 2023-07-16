@@ -14,7 +14,11 @@ I am a graduate of Economics from the Pontifica Universidad Catolica del Peru (P
 </a>
 
 
-### Here's my learning progress
+### About my learning progress
+I've taken lessons of Stata at PUCP. I became the first place of that class. Since that, I've continued learning that prograrm, applying it at work
+and I've also been learning other languages. Particuarly, this semester I took the R and Python classes. It is almost finished, but i can already say 
+it is being very helpful, since I am already using some of that knowledge at work. Finally, also because of work matters, I'm learning the basics of 
+QGis. I'm still quite new there, but I am looking forward to learning more about it. Here is a brief summary og my learning progress:
 
 - Stata       ![Stata learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%2300FFFF "Stata learning progress")
 
