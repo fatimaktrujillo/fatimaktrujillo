@@ -10,7 +10,7 @@ I am a graduate of Economics from the Pontifica Universidad Catolica del Peru (P
 ### I'm just starting around here, but these are some stats about my work:
 
 <a href="https://github.com/fatimaktrujillo">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="fatimaktrujillo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatimaktrujillo&show_icons=true" alt="fatimaktrujillo's GitHub Stats" />
 </a>
 
 
