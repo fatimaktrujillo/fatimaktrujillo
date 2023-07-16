@@ -1,29 +1,18 @@
-### Hi there 👋
-I'm Fátima Trujillo, a graduate 
+### Hi there, I'm Fatima Trujillo 👋
+#I am a graduate of Economics from the Pontifica Universidad Catolica del Peru (PUCP).  Here you can learn some things about me and my work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm Fatima Trujillo! 👋
+- 🔭 I’m currently working at APOYO Consultoria, in the Economic Consulting area. Im also a teaching assistant at PUCP
+- 🌱 I’m currently learning how to code in Python and R, also improving my microeconometric skills with Stata
+- 💬 Ask me about my interests and new projects!
+- 📫 How to reach me: You can contact me through my email (fatimak.trujillo@pucp.edu.pe) or my Linkedin (Fatima Trujillo Quiñe)
+- ⚡ Fun fact: I'm looking forward to learning ArcGis and QGis  soon
+
+### I'm just starting around here, but these are some stats about my work:
 
 <a href="https://github.com/fatimaktrujillo">
   <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="fatimaktrujillo's GitHub Stats" />
 </a>
 
-### My latest projects
-
-<a href="https://github.com/fatimaktrujillo/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaktrujillo&repo=codestats-profile-readme" alt="codestats-profile-readme" />
-</a>
-<a href="https://github.com/fatimaktrujillo/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaktrujillo&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
-</a>
 
 ### Recently I'm coding in...
 
