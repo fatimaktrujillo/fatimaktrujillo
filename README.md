@@ -16,12 +16,12 @@ I am a graduate of Economics from the Pontifica Universidad Catolica del Peru (P
 
 ### Here's my learning progress
 
-- Stata ![Stata learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=51&leftFill=%2300FFFF "Stata learning progress")
+- Stata       ![Stata learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%2300FFFF "Stata learning progress")
 
-- RStudio ![Rstudio learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Rstudio learning progress")
+- RStudio     ![Rstudio learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=45&leftFill=%2300FFFF "Rstudio learning progress")
 
-- Python ![Python learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "Python learning progress")
+- Python      ![Python learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=45&leftFill=%2300FFFF "Python learning progress")
 
-- QGis ![QGis learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "QGis learning progress")
+- QGis       ![QGis learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=15&leftFill=%2300FFFF "QGis learning progress")
 
 
