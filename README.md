@@ -1,5 +1,5 @@
 ### Hi there, I'm Fatima Trujillo 👋
-#I am a graduate of Economics from the Pontifica Universidad Catolica del Peru (PUCP).  Here you can learn some things about me and my work!
+I am a graduate of Economics from the Pontifica Universidad Catolica del Peru (PUCP).  Here you can learn some things about me and my work!
 
 - 🔭 I’m currently working at APOYO Consultoria, in the Economic Consulting area. Im also a teaching assistant at PUCP
 - 🌱 I’m currently learning how to code in Python and R, also improving my microeconometric skills with Stata
